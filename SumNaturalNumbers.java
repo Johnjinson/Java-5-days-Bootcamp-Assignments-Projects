@@ -1,3 +1,5 @@
+// Program to add sum of all natural number from 1 to 50.
+
 class SumNaturalNumbers {
     public static void main(String[] args) {
         
